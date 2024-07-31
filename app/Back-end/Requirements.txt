@@ -1,1 +1,4 @@
-mysqlclient
+pymongo
+python-dotenv
+Flask
+dnspython
